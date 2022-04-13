@@ -1,6 +1,6 @@
-# my-next.js-starter
+# zonic - Version Control System for Video Editing
 
-## Example Branches
+## Demo
 
 - [AnyChart.js](https://github.com/codeBelt/my-next.js-starter/tree/anychart) - [Diff](https://github.com/codeBelt/my-next.js-starter/pull/1/files)
 - [Material UI](https://github.com/codeBelt/my-next.js-starter/tree/material-ui) - [Diff](https://github.com/codeBelt/my-next.js-starter/pull/4/files)
@@ -8,4 +8,4 @@
 
 # TypeScript Next.js example
 
-`npx create-next-app --example with-typescript my-next.js-starter`
+[zonic.space](http://zonic.space:3000)
